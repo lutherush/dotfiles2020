@@ -5,8 +5,8 @@
 "    Author: lutherus 
 "   License: License? uhm, this is a config file; do with it what ever you want!
 "   Created: 26.11.2004 18:20 CET (+0100)
-"  Modified: 28.04.2011 13:01 CET (+0100)
-"   Version: VIM - Vi IMproved 7.3 (2010 Aug 15, compiled Dec  2 2010 10:44:11)
+"  Modified: 30.03.2020 05:09 CET (+0100)
+"   Version: VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Dec  22 2019 10:44:11)
 " = :: =========================================================== :: =
 
 
