@@ -1,0 +1,1019 @@
+sudo ip link set enp0s25 up
+startx
+vim
+alsami
+sudo pacman -S alsatools
+sudo pacman -S scrot
+trizen deezer-cli
+trizen deezercli
+trizen gotop
+goto
+gotop
+vim .vimrc
+vim configs/dwm/dwm/config.h
+xset s off
+xset -dpms
+setxkbmap -option caps:escape
+vim .vimrc
+cd configs
+git clone https://github.com/huijunchen9260/dmenufm.git
+cd dmenufm
+ls
+make
+make install
+sudo make install
+dmenufm
+sudo pacman -S zathura-pdf-mupdf zathura-ps  zathura-djvu  zathura-cb 
+cd configs
+git clone https://git.suckless.org/tabbed
+cd tabbed
+ls
+vim config.def.h
+make
+sudo make install
+sudo pacman -S uzbl
+trizen uzbl
+cd configs/dwm/dwm
+vim config.h
+cd configs/surf
+patch -p1 < surf-0.5-download.diff
+patch -p1 < surf-history-20181009-2b71a22.diff
+patch -p1 < surf-2.0-homepage.diff
+patch -p1 < surf-bookmarks-20170722-723ff26.diff
+make
+sudo pacman -S glib
+trizen -S glib
+make
+sudo pacman -S glib2
+make
+sudo pacman -S gcr
+make
+sudo make install
+sudo pacman -S webkit
+trizen webkit
+sudo pacman -S webkit2gtk luakit
+make
+..
+rm -rf surf
+cd 
+cd Downloads
+ls
+cd dotfiles-master
+ls
+cp -r surf ~/configs
+cd
+cd configs
+cd surf
+make
+sudo make install
+cd builds
+wget https://bear.alienbase.nl/mirrors/slackware/slackware64-current-iso/slackware64-current-install-dvd.iso
+cp -r .xmonad/xmonad.hs ~/configs
+cd Downloads/dotfiles-master
+ls
+la
+cd .surf
+ls
+vim bookmarks
+..
+cp -r .surf  ~/
+tabbed -r 2 surf -pe x ''
+la
+cd .config
+ls
+..
+cp -r .xmonad ~/
+cd
+vim
+cd .xmonad
+vim xmonad.hs
+cd
+cd Downloads/dotfiles-master
+cd .config
+cp -r xmobar ~/.config
+cd
+xmonad --recompile
+clear
+cd
+vim .xinitrc
+startx
+vim .xmonad/xmonad.hs
+xmonad --recompile
+startx
+vim configs/xmonad.hs
+vim .zshrc
+vim .config/xmobar/xmobarrc
+vim .config/xmobar/xmobarrc0
+vim .xmonad/xmonad.hs
+xmonad --recompile
+startx
+st -vim
+st vim
+\:q
+ls
+scrot -c 3
+scrot -d 4
+c
+ls
+feh 2020-03-28-100925_1366x768_scrot.png
+feh 2020-03-28-135636_1366x768_scrot.png
+scrot -d 4
+pandoc
+vim latex
+vim *.tex
+vim .tex
+xmonad --recompile
+xmonad --restart
+scrot -d5 
+vim .xmonad/xmonad.hs
+vim configs/dwm/dwm/config.h
+cd configs/dwm
+make
+cd dwm
+make
+sudo make install
+vim .xinitrc
+vim .xinitrc
+ip link
+sudo ip link set enp0s25 up
+startx
+xset s off
+xset -dpms
+vim .surf
+vim .surf
+vim .surf
+cd configs/dwm/dwm
+vim config.h
+make clean
+make 
+sudo make install
+startx
+xset s off
+xset =dpms
+xset -dpms
+sudo wifi-menu -o
+sudo ip link set elp3s0 down
+sudo ip link set wlp3s0 down
+sudo wifi-menu -o
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo systemctl disable dhcpcd@wlp3s0
+sudo ip link set wlp3s0 down
+sudo wifi-menu -o
+sudo reboot
+sudo wifi-menu
+sudo systemctl status netctl@wlp3s0\\xs9Stargate.service
+sudo rm -rf /etc/netctl/wlp3s0-Stargate
+sudo wifi-menu
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo rm -rf /etc/netctl/stargate
+startx
+sudo wifi-menu
+sudo wifi-menu
+sudo wifi-menu
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo ip link 
+sudo ip link set enp0s25 up
+ping -c3 www.google.com
+xset s off
+xset -dpms
+sudo dhcpcd wlp3s0
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo dhcpcd wlp3s0
+sudo dhcpcd wlp3s0
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo ip link set enp0s25 up
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+sudo ip link set enp0s25 up
+ping -c3 www.google.com
+sudo vim /etc/resolv.conf
+lspci -k
+sudo pacman -S wireless_tools
+wpa_cli
+sudo pacman -Rnsc wpa_supplicant
+sudo pacman -Rns $(pacman -Qtdq)
+sudo reboot
+sudo wifi-menu
+sudo ip link
+sudo ip link set enp0s25 up
+sudo rm -rf /etc/wpa_supplicant
+sudo pacman -S wpa_supplicant
+sudo wifi-menu\
+sudo wifi-menu
+sudo rm -rf /etc/netctl/Stargate
+sudo wifi-menu
+ping -c3 www.google.com
+sudo ip link set enp0s25 up
+startx
+sudo pacman -S iwlwifi
+iw
+iw list
+wpa_cli
+wpa_supplicant
+sudo pacman -Rnsc netctl
+sudo rm -rf /etc/netctl
+sudo pacman -S netctl
+ping -c3 www.google.com
+sudo pacman -S netctl
+sudo pacman -S netctl
+sudo pacman -S netctl
+sudo wifi-menu 
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ip link
+sudo ip link set  enp0s25 up
+sudo pacman -S https://aur.archlinux.org/packages/wpa_supplicant_gui/
+sudo pacman -S wpa_supplicant_gui
+trizen wpa_supplicant_gui
+sudo ip link set  enp0s25 up
+sudo ip link set  enp0s25 up
+ping -c3 www.google.com
+ip link
+sudo rm wpa_supplicant: /usr/share/man/man8/wpa_passphrase.8.gz
+sudo rm wpa_supplicant: /usr/share/man/man8/wpa_supplicant.8.gz
+sudo wifi-menu wlp3s0
+sudo wifi-menu wlp3s0
+ping -c3 www.google.com
+sudo reboot
+sudo wifi-menu
+sudo wifi-menu
+sudo wifi-menu
+ping -c3 www.google.com
+sudo rm -rf /etc/netctl/wlp3s0
+sudo wifi-menu
+sudo rm -rf /etc/netctl/wlp3s0
+sudo wifi-menu
+wpa_cli
+startx
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+xset s off
+xset -dpms
+cd Downloads
+rm -rf dmenu-distrotube-master
+rm -rf dotfiles-master
+rm -rf dmenu-distrotube-master.zip
+rm -rf dotfiles-master.zip
+cd configs
+git clone https://github.com/joestandring/dwm-bar.git
+cd dwm-bar
+ls
+vim dwm_bar.sh
+chmod +x dwm_bar.sh
+./dwm_bar.sh
+cd
+vim .xinitrc
+vim .xinitrc
+startx
+cd configs/dwm-bar
+ls
+./dwm_bar.sh
+clear
+vim configs/dwm/dwm/config.h
+vi
+gotop
+vim .zshrc
+cd configs
+cd dwm
+cp -r dwm ~/configs
+mv dwm ~/configs
+cp -r dwm ~/configs
+cp -r dwm ~/Documents
+cd 
+cd configs
+cd dwm
+ls
+cd
+sudo pacman -S nautilus
+xset s off
+xset -dpms
+cd configs/dwm
+vim config.h
+vim README.md
+ls
+ls
+git init
+git add .
+git add all
+git add --all
+git commit -m "first commit"
+sudo -Rnsc nautilus
+sudo pacman -Rnsc nautilus
+sudo pacman -S conky_cli
+sudo pacman -S conky
+vim .xinitrc
+vim .xinitrc
+trizen utube
+sudo pacman -Rnsc minitube
+trizen utube
+trizen utube
+mps
+mpsyt
+sudo pacman -Rnsc mps-youtube
+trizen utube
+sudo pacman -S mplayer ffmpeg mpd ncmpcpp mpc
+cp -r .xmonad ~/configs
+cd configs
+ls
+cp xmonad.hs ~/.xmonad
+startx
+vim .xinitrc
+startx
+cd .xmonad
+ls
+rm -rf README.md
+rm -rf xmonad.errors
+rm -rf xmonad.hi
+rm -rf xmonad.o
+rm -rf xmonad-x86_64-linux
+rm -rf xpm
+vim xmonad.hs
+xmonad --recompile
+trizen xmonad-contrib
+xmonad --recompile
+vim xmonad.hs
+xmonad --recompile
+vim xmonad.hs
+xmonad --recompile
+mv xmonad.hs xmonad.hs.bkp
+vim
+xmonad --recompile
+vim xmonad.hs
+sudo pacman -S dzen2
+xmonad --recompile
+xmonad --restart
+vim xmonad.hs
+rm -rf xmonad.hs
+vim
+xmonad --recompile
+xmonad --restart
+vim
+xmonad --restart
+xmonad --restart
+xmonad --recompile
+xmonad --restart
+rm -rf xmonad.hs
+vim
+xmonad --recompile
+xmonad --restart
+killall conky
+vim
+xmonad --restart
+vim xmonad.hs
+cd ~/configs
+cp .xmonad ~/
+xmonad --recompile
+xmonad --restart
+cd
+rm -rf .xmonad
+rm -rf .xmobarrc
+cd configs
+cp -r .xmonad ~/
+xmonad --restart
+xmonad --recompile
+xmonad --restart
+startx
+vim
+vim
+mkdir configs/stumpwm
+vim
+sudo pacman -S stumpwm
+trizen stumpwm
+trizen stumpwm
+vim .xinitrc
+startx
+cd configs/dwm-bar
+ls
+./dwm_bar.sh
+xset s off
+xset -dpms
+sudo pacman -Rncs conky
+sudo pacman -Rncs dzen2
+trizen rofi-dmenu
+rofi
+rofi window
+rofi -show window
+rofi -show drun
+mkdir rofi
+vim 
+mv rofi ~/.configs
+rm -rf .conkyrc
+vim configs/dwm/config.h
+ls | fzf
+rofi -show ssh
+rofi -help
+rofi-theme-selector
+sudo pacman -S fontconfig
+rofi-theme-selector
+cd configs
+git clone https://github.com/sebastiencs/icons-in-terminal.git
+ls
+cd icons-in-terminal
+ls
+./install.sh
+rofi-theme-selector
+rofi -show ssh
+rofi-theme-selector
+rofi -show ssh
+rofi -show ssh
+cd 
+cd configs/dwm
+vim config.h
+rofi -show run
+make
+vim config.h
+make
+vim config.h
+make
+sudo make install
+cd-iccdump `\
+\
+
+cd Documents
+se
+tr
+sudo reboot
+sudo wifi-menu
+ip link
+sudo ip set emp0s25 down
+sudo ip link set emp0s25 down
+sudo ip link set enp0s25 down
+sudo wifi-menu
+sudo rm -rf /etc/netctl/wlp3s0-Stargate
+sudo wifi-menu
+sudo wifi-menu
+ping -c3 www.google.com
+startx
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+ping -c3 www.google.com
+./configs/dwm-bar/dwm_bar.sh
+xset s off
+xset -dpms
+vim .xinitrc
+startx
+./configs/dwm-bar/dwm_bar.sh
+xset s off
+xset -dpms
+rofi
+rofi-dmenu
+cd configs/dwm
+make
+make
+make
+sudo make install
+startx
+rofi -show run
+cd scripts
+vim
+chmod +x rofi.sh
+./rofi.sh
+./rofi.sh
+FONT_NAME=`echo $FONT_NAME | tr -d '\n' | sed -e 's/&/&amp;/'`
+./rofi.sh
+cd 
+vim configs/dwm/config.h
+cd configs/dwm
+make
+sudo make install
+startx
+cd configs/dwm
+vim configs/dwm/config.h
+vim config.h
+make
+sudo make install
+startx
+xset s off
+xset -dpms
+cd configs/dwm
+make
+cd configs/dwm
+make
+sudo make install
+startx
+cd configs
+vim
+chmod +x rofi.sh
+./rofi.sh
+vim rofi.sh
+./rofi.sh
+cd
+cd configs
+cd dwm
+vim config.h
+make
+sudo make install
+startx
+vim .config/zsh.d/aliases
+rofi
+rssh
+rssh
+ping -c3 www.google.com
+ssh-keygen -t rsa
+ssh-keygen -o
+ssh-keygen -t rsa -b 4096 -C velimir.baksa@gmail.com
+ssh-keygen -t rsa -b 4096 -C velimir.baksa@gmail.com
+ssh-add ~/.ssh/id_rsa
+sudo pacman -S openssh
+ssh-add ~/.ssh/id_rsa
+ eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -f key.pub -e -m pem\
+
+sudo pacman -Syy
+sudo pacman -Syu
+cd .config
+ls
+..
+cd configs
+..
+cd .configs
+ls
+vim autostart.sh
+..
+rm -rf .configs
+./configs/dwm-bar/dwm_bar.sh
+gotop
+cd .surf/html
+ls
+..
+ls
+vim bookmarks
+trizen stumpwm
+sudo pacman -Rnsc netctl
+cd configs/dwm
+ls
+vim config.h
+ntpd -u ntp:ntp\
+
+timedatectl set-ntp true \
+
+sudo pacman -S libreoffice
+vim .xmonad/xmonad.hs
+xmonad --recompile
+vim .xinitrc
+startx
+vim .xmonad/xmonad.hs
+gotop
+vim .config/xmobar/xmobarrc1
+scrot -d8
+scrot -d8
+xset s off
+xset -dpms
+sudo pacman -S libreoffice
+sudo pacman -S rust
+sudo pacman -S rust jupyter-lab
+sudo pacman -S rust 
+vim .xmonad/xmonad.hs
+xset s off
+xset -dpms
+xmonad --recompile
+xmonad --restart
+vim .config/xmobar/xmobarrc0
+vim .config/xmobar/xmobarrc1
+vim .config/xmobar/xmobarrc2
+xmonad --restart
+vim ~/configs/dmenu/config.h
+make 
+ls
+cd configs/dmenu
+make
+sudo make install
+cd
+cd configs
+la
+cd
+xset s off
+xset -dpms
+vim
+vim
+xmonad --recompile
+xmonad --restart
+xmonad --recompile
+xmonad --recompile
+xmonad --recompile
+xmonad --restart
+startx
+cd configs
+cp -r xmonad.hs ~/.xmonad
+xmonad --recompile
+xmonad --recompile
+xmonad --restart
+ip link 
+xmonad --recompile
+xmonad --restart
+xmonad --recompile
+xmonad --recompile
+xmonad --restart
+xmonad --recompile
+xmonad --restart
+xmonad --restart
+xmonad --restart
+xmonad --restart
+xmonad --restart
+xmonad --recompile
+cd configs
+mkdir xmobar
+cd cm
+cd xmobar
+vim
+xmonad --recompile
+cd
+xmonad --recompile
+xmonad --recompile
+xmonad --recompile
+cd configs/xmobar
+ls
+xmonad --recompile
+xmonad --recompile
+xmonad --restart
+xmonad --restart
+cd 
+rm 0rf .xmobarrc
+rm -rf .xmobarrc
+xmonad --restart
+xmonad --restart
+vim .xmobarrc
+xmonad --restart
+vim .xmobarrc
+vim .xmobarrc
+vim .xmonad/xmonad.hs
+vim .zshrc
+vim .xinitrc
+startx
+sudo pacman -S steam
+trizen steam
+feh
+ranger
+sudo pacman -S emacs
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+trizen teams
+~/.emacs.d/bin/doom install
+./configs/dwm-bar/dwm_bar.sh
+killall teams
+vim .vimrc
+emasc
+emacs
+emasc -nw
+emacs -nw
+emacs -nw .xmonad/xmonad.hs
+vim
+cd scripts
+mkdir js
+cd js
+mkdir node
+mkdir react
+mkdir vue
+cd react
+touch index.html
+vim index.html
+killall teams
+killall teams
+cd configs/dwm
+wget https://dwm.suckless.org/patches/barpadding/dwm-barpadding-6.2.diff
+patch -p1 < dwm-barpadding-6.2.diff
+make
+vim Makefile
+make
+make
+make install
+make clean
+vim Makefile
+make clean
+make
+vim config.h
+cd 
+cd configs
+git clone https://github.com/mitchweaver/suckless.git
+ls
+cd suckless
+./build.sh
+./build.sh dwm
+..
+mkdir mydwm
+cd mydwm
+git clone https://git.suckless.org/dwm
+cd dwm
+sudo pacman -S nautilus
+ls
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-01-fullgaps-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-02-pertag-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-04-rotatestack-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-09-attachabove-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-12-statuspadding-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-11-barpadding-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/mitch-06-rounded_corners-db6093f6ec1bb884f7540f2512935b5254750b30.patch
+cd patches
+wget https://dwm.suckless.org/patches/gridmode/dwm-gridmode-20170909-ceac8c9.diff
+patch -p1 < dwm-gridmode-20170909-ceac8c9.diff
+patch -p1 < dwm-05-savefloats-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+..
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-05-savefloats-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < ~/configs/mydwm/dwm/patches/dwm-gridmode-20170909-ceac8c9.diff
+make
+cd
+cd configs/dwm
+patch -p1 < patches/dwm-00-center-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-01-fullgaps-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-02-pertag-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-04-rotatestack-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-11-barpadding-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-gridmode-20170909-ceac8c9.diff
+patch -p1 < patches/dwm-05-savefloats-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-07-urg-border-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+make
+ls
+cd
+cd configs
+git clone https://git.suckless.org/dwm
+patch -p < patches/dwm-00-center-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-00-center-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+cd dwm
+patch -p1 < patches/dwm-00-center-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-01-fullgaps-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-02-pertag-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-04-rotatestack-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-05-savefloats-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-09-attachabove-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-05-savefloats-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-11-barpadding-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+patch -p1 < patches/dwm-gridmode-20170909-ceac8c9.diff
+make
+vim configs/dwm/dwm.c
+make
+make
+sudo make install
+make
+make
+make
+make
+make
+wget https://dwm.suckless.org/patches/autostart/dwm-autostart-20161205-bb3bd6f.diff
+patch -p1 < dwm-autostart-20161205-bb3bd6f.diff
+make
+make
+make
+make
+sudo make install
+startx
+cd configs/dwm
+make
+sudo make install
+make
+sudo make install
+startx
+cd configs/icons-in-terminal
+ls
+./print_icons.sh icons.txt
+..
+cd dwm
+make
+sudo make install
+startx
+cd configs/dwm
+patch -p1 < patches/dwm-12-statuspadding-db6093f6ec1bb884f7540f2512935b5254750b30.diff
+make
+patch -p1 < patches/mitch-06-rounded_corners-db6093f6ec1bb884f7540f2512935b5254750b30.patch
+make
+make
+make -B
+make
+make
+make clean
+make clean
+make
+sudo make install
+startx
+startx
+cd
+cd configs/dwm
+make
+sudo make install
+startx
+cd
+vim .xinitrc
+startx
+cd configs/dwm
+make
+make clean
+make
+make
+make
+make
+cc -o dwm drw.o dwm.o util.o -s -L -lX11 -lXinerama -lfontconfig -lXft  -lXrender -lX11-xcb -lxcb -lxcb-res
+X11LIB := /usr/lib64 # Assumes the path to libX11.so is /usr/lib64/libX11.so
+make
+..
+rm -rf suckless
+rm -rf dwm
+g
+git clone https://git.suckless.org/dwm
+cd dwm
+mkdir patches
+cd patches
+wget https://dwm.suckless.org/patches/barpadding/dwm-barpadding-6.2.diff
+wget https://dwm.suckless.org/patches/attachbelow/dwm-attachbelow-6.2.diff
+wget https://dwm.suckless.org/patches/autostart/dwm-autostart-20161205-bb3bd6f.diff
+wget https://dwm.suckless.org/patches/defaulttransparency/dwm-defaulttransparency-r1521.diff
+wget https://dwm.suckless.org/patches/fullgaps/dwm-fullgaps-6.2.diff
+wget https://dwm.suckless.org/patches/gridmode/dwm-gridmode-20170909-ceac8c9.diff
+wget https://dwm.suckless.org/patches/pertag/dwm-pertag-20170513-ceac8c9.diff
+wget https://dwm.suckless.org/patches/save_floats/dwm-savefloats-20181212-b69c870.diff
+ls
+..
+ls
+patch -p1 < patches/dwm-attachbelow-6.2.diff
+patch -p1 < patches/dwm-autostart-20161205-bb3bd6f.diff
+patch -p1 < patches/dwm-barpadding-6.2.diff
+patch -p1 < patches/dwm-defaulttransparency-r1521.diff
+patch -p1 < patches/dwm-fullgaps-6.2.diff
+patch -p1 < patches/dwm-gridmode-20170909-ceac8c9.diff
+patch -p1 < patches/dwm-pertag-20170513-ceac8c9.diff
+patch -p1 < patches/dwm-savefloats-20181212-b69c870.diff
+cd configs/dwm
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+sudo make install
+make
+sudo make install
+cd
+vim .xinitrc
+startx
+cd configs/dwm
+vim config.h
+make
+sudo make install
+startx
+startx
+cd configs/dwm
+make
+sudo make install
+startx
+ccd config
+cd configs/dwm
+make
+make
+sudo make install
+startx
+vim configs/dwm/dwm.c
+vim configs/dwm/config.h
+ranger
+killall libreoffice
+startx
+sudo pacman -Rnsc libreoffice
+sudo pacman -Rnsc libreoffice
+sudo pacman -Rnsc LibreOffice
+libreoffice
+sudo pacman -Rnsc libreoffice
+xset s off
+xset -dpms
+sudo pacman -S libreoffice
+sudo pacman -Rnsc libreoffice-fresh
+cd .config
+ls
+cd zathura
+ls
+vim
+cd configs/dmenu
+ls
+vim config.h
+make
+sudo make install
+ls
+mkdir patches
+cd patches
+wget https://tools.suckless.org/dmenu/patches/fuzzymatch/dmenu-fuzzymatch-4.9.diff
+..
+patch -p1 < patches/dmenu-fuzzymatch-4.9.diff
+make
+vim config.h
+make
+sudo make install
+cd configs/st
+ls
+mkdir patches
+cd patches
+wget https://st.suckless.org/patches/solarized/st-solarized-light-20190306-ed68fe7.diff
+wget https://st.suckless.org/patches/solarized/st-solarized-dark-20180411-041912a.diff
+cd
+cd configs/st
+patch -p1 < patches/st-solarized-light-20190306-ed68fe7.diff
+make
+sudo make install
+patch -p1 < patches/st-solarized-dark-20180411-041912a.diff
+make
+sudo make install
+sudo pacman -Rnsc gedit nautilus
+xste s off
+xset s off
+xset -dpms
+vim .dwm/autostart.sh
+startx
+vim .dwm/autostart.sh
+startx
+xset s off
+xset -dpms
+ls /tmp/files
+cd configs
+rm -rf icons-in-terminal
+git clone https://github.com/sebastiencs/icons-in-terminal.git
+cd configs
+ls
+cd .vim
+cd colors
+vim miromiro.vim
+sudo vim miromiro.vim
+ls
+sudo vim laurice
+ls
+rm -rf laurice
+sudo vim laurice-light
+rm -rf laurice-light
+vim ~/.vimrc
+vim ~/.vimrc
+vim ~/.vimrc
+ls
+rm -rf laurice-light.vim
+rm -rf miromiro.vim
+vim ~/.vimrc
+cd icons-in-terminal
+./build.sh
+sudo pacman -S fontforge
+cd configs
+git clone https://github.com/sebastiencs/sidebar.el.git
+./build.sh
+./install.sh
+./print_icons.sh > icons.txt
+vim icons.txt
+sudo pacman -S gedit
+cd
+cd .emacs.d
+ls
+cd
+cd .emacs.d/
+ls
+cd
+cd .doom.d
+ls
+vim init.el
+ls
+emacs -nw init.el
+emacs -nw .doom.d/init.el
+vim .doom.d/init.el
+vim .emacs.d/init.el
+emacs -nw .doom.d/init.el
+mv sidebar.el sidebar
+vim .emacs.d/init.el
+mv sidebar.el sidebar
+emacs -nw .doom.d/init.el
+vim .emacs.d/init.el
+emacs -nw .doom.d/init.el
+emacs -nw .doom.d/init.el
+cd configs
+ls
+rm -rf config.h
+rm -rf dwm-bar
+rm -rf gentoo-dotfiles
+rm -rf icons.txt
+rm -rf NCC-1701-E-dotfiles
+rm -rf patches
+cd
+cp -r .vim ~/configs
+cp -r .vimrc ~/configs
+cp -r .zshrc ~/configs
+cp -r ~/.config/zsh.d ~/configs
